@@ -10,14 +10,4 @@ Change the dimensions given for figma for other types of devices
     screen1 = 64px;
     screen2 = 46px;
 
-
-
-use function
-    
-    function sizeCalculate(screen, size) {
-        const size = (screen * size) / 1920;
-        return size;
-    }
-
-
 happy code 😎
