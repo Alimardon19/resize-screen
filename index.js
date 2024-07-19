@@ -1,6 +1,6 @@
 addEventListener("DOMContentLoaded", () => {
     const from = localStorage.getItem("from") || window.innerWidth;
-    const to = localStorage.getItem("to") || 0;
+    const to = localStorage.getItem("to") || 1336;
     
     // set value
     document.getElementById("from").value = from;
