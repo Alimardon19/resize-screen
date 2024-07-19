@@ -22,10 +22,15 @@ h1 {
     text-align: center;
     color: white;
 }
-p {
+.main_box {
     position: fixed;
     bottom: 50px;
     left: 50px;
     color: grey;
     font-size: 25px;
+}
+.main_box input {
+    width: 100px;
+    height: 50px;
+    font-size: 22px;
 }
