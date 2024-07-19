@@ -44,6 +44,9 @@ h1 {
     input {
         width: 100%;
     }
+    .main_box {
+        left: 0;
+    }
     .main_box input {
         width: 45%;
     }
